@@ -7,7 +7,7 @@ import Amplify, {API,graphqlOperation} from 'aws-amplify';
 Amplify.configure({
   'aws_appsync_graphqlEndpoint': 'https://tvsx3dfoh5fo7loqwux6cnomd4.appsync-api.us-east-2.amazonaws.com/graphql',
   'aws_appsync_region': 'us-east-2',
-  'aws_appsync_authenticationType': 'y7kbminobne4lotgotpjvaopl4',
+  'aws_appsync_authenticationType': 'API_KEY',
   'aws_appsync_apiKey': 'da2-rums5a77orgith3s6ehxvpesvu',
 });
 
