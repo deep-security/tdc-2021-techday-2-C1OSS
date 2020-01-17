@@ -5,10 +5,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Amplify, {API,graphqlOperation} from 'aws-amplify';
 Amplify.configure({
-  'aws_appsync_graphqlEndpoint': 'https://xxxxxx.appsync-api.us-east-1.amazonaws.com/graphql',
-  'aws_appsync_region': 'us-east-1',
-  'aws_appsync_authenticationType': 'API_KEY',
-  'aws_appsync_apiKey': 'da2-xxxxxxxxxxxxxxxxxxxxxxxxxx',
+  'aws_appsync_graphqlEndpoint': 'https://tvsx3dfoh5fo7loqwux6cnomd4.appsync-api.us-east-2.amazonaws.com/graphql',
+  'aws_appsync_region': 'us-east-2',
+  'aws_appsync_authenticationType': 'y7kbminobne4lotgotpjvaopl4',
+  'aws_appsync_apiKey': 'da2-rums5a77orgith3s6ehxvpesvu',
 });
 
 const sendMessage = `mutation sendMessage($message: String!) {
