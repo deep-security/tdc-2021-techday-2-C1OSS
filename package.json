@@ -8,7 +8,38 @@
     "bootstrap": "^4.2.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.1.2"
+    "react-scripts": "2.1.2",
+    "angular": "^1.8.2",
+    "angular-route": "^1.8.2",
+    "atob": "^2.1.2",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.6.0",
+    "bootswatch": "^4.6.0",
+    "btoa": "^1.2.1",
+    "canvas": "^2.7.0",
+    "canvas-confetti": "^1.4.0",
+    "captchapng": "0.0.1",
+    "cookie-parser": "^1.4.5",
+    "crypto": "0.0.3",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "express-session": "^1.17.1",
+    "highlightjs": "^9.16.2",
+    "jquery": "^3.6.0",
+    "markdown": "^0.5.0",
+    "mysql2": "^1.7.0",
+    "node-truncate": "^0.1.0",
+    "open-iconic": "^1.1.1",
+    "passport": "^0.3.2",
+    "passport-google-oauth20": "^1.0.0",
+    "passport-ldapauth": "^2.1.4",
+    "passport-local": "^1.0.0",
+    "passport-saml": "^2.2.0",
+    "passport-slack": "0.0.7",
+    "popper": "^1.0.1",
+    "sqlite3": "^4.2.0",
+    "uid-safe": "^2.1.4",
+    "validator": "^13.6.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -26,3 +57,5 @@
     "not op_mini all"
   ]
 }
+
+
