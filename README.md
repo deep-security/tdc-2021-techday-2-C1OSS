@@ -13,7 +13,7 @@ Click on DEPLOY from the [application page](https://serverlessrepo.aws.amazon.co
 
 ## React Front-End setup
 
-1. Clone the repository https://github.com/awsed/appsync-broadcaster-sar 
+1. Clone the repository https://github.com/deep-security/tdc-2021-techday-2-C1OSS 
 2. In the DEPLOYMENT STATUS page, click on VIEW CLOUDFORMATION STACK or go to the CloudFormation console, click on the stack `aws-serverless-repository-appsync-broadcaster` and open the OUTPUTS tab
 3. Edit the file `src/App.js` and replace the following values according to the CloudFormation Stack Outputs:
 
@@ -69,7 +69,7 @@ Click on DEPLOY from the [application page](https://serverlessrepo.aws.amazon.co
 
 ## Hosting with the [Amplify Console](https://aws.amazon.com/amplify/console/)
 
-1. Fork the repository https://github.com/awsed/appsync-broadcaster-sar to your own GitHub account
+1. Fork the repository https://github.com/deep-security/tdc-2021-techday-2-C1OSS to your own GitHub account
 2. Commit the modified `src/App.js` file with the valid AppSync resources to the forked repository
 3. Connect your repository as per the instructions on https://docs.aws.amazon.com/amplify/latest/userguide/getting-started.html
 4. Deploy and access your app (xxxxxxxx.amplifyapp.com)
